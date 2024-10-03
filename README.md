@@ -1,2 +1,3 @@
-1. นายริสกีร์ บิลแหละ 6510210284
-2. นายธวัชชัย แก้วเขียว 6510210125
+pip install streamlit
+pip install joblib
+pip install scikit-learn
