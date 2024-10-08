@@ -274,8 +274,6 @@ with open('CountCaloriesModel.sav', 'wb') as f:
 # 6 ตัวอย่างการ Deploy
 """
 
-!pip install gradio
-
 import gradio as gr
 import numpy as np
 import joblib
